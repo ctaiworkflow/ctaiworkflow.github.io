@@ -25,10 +25,10 @@ items:
       The introduction of lab
     call_to_action_name: Go to Lab
     call_to_action_link: https://wang-axis.github.io/
-   - title: Tool
+  - title: Tool
     # subtitle: Example subtitle 1
-    icon: :hammer_and_wrench:
-    icon_brand: true
+    icon: fa-copy
+    # icon_brand: true
     description: >
       The turing test tool
     call_to_action_name: Go for test
