@@ -25,6 +25,14 @@ items:
       The introduction of lab
     call_to_action_name: Go to Lab
     call_to_action_link: https://wang-axis.github.io/
+   - title: Tool
+    # subtitle: Example subtitle 1
+    icon: :hammer_and_wrench:
+    icon_brand: true
+    description: >
+      The turing test tool
+    call_to_action_name: Go for test
+    call_to_action_link: https://visual-turing-test.vercel.app/
   # - title: Example callout 2
   #   subtitle: Example subtitle 2
   #   icon: fa-wrench
