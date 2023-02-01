@@ -27,7 +27,7 @@ items:
     call_to_action_link: https://wang-axis.github.io/
   - title: Tool
     # subtitle: Example subtitle 1
-    icon: fa-copy
+    icon: fa-tools
     # icon_brand: true
     description: >
       The turing test tool
