@@ -31,7 +31,7 @@ items:
     # icon_brand: true
     description: >
       The turing test tool
-    call_to_action_name: Go for test
+    call_to_action_name: Go for Test
     call_to_action_link: https://visual-turing-test.vercel.app/
   # - title: Example callout 2
   #   subtitle: Example subtitle 2
