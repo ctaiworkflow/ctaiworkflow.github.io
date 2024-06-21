@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Christopher Wiedeman Wins the 1st Place in the 2023 AAPM Deep Generative Modeling Challenge"
+date:   2023-07-20 08:00:00
+published: true
+# canonical_url: https://visual-turing-test.vercel.app/
+---
+

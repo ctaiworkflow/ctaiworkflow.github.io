@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Yongyi Shi Wins the Best Poster Award for 17th Fully3D Conference"
+date:   2023-07-01 08:00:00
+published: true
+# canonical_url: https://visual-turing-test.vercel.app/
+---
+
