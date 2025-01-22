@@ -1,6 +1,6 @@
 ---
 title: Adversarially Based Virtual CT Workflow for Evaluation of AI Imaging
-subtitle: The goal is to develop an FDA workflow evaluating, approving, and monitoring AI imaging software
+subtitle: The goal is to develop a virtual CT workflow to assist the development, regulatory evaluation and monitoring of AI imaging software
 layout: page
 callouts: example_callouts
 show_sidebar: true
